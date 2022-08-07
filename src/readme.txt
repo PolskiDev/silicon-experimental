@@ -133,6 +133,13 @@ devem ser declaradas as variaveis no arquivo (main.global).
     escreva <variavel>
     escreval <variavel>
 
+    [FORMATAÇÃO]:
+        %s --> cadeia
+        %d --> inteiro
+
+        %T --> tipo do valor
+        %v --> valor (inteiro, flutuante)
+
 
     [MESMA LINHA]:
         cadeia variavel msg = "Hello world"
